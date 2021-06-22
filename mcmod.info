@@ -1,0 +1,17 @@
+[
+  {
+    "modid": "quantum",
+    "name": "Quantum",
+    "description": "no homo hack",
+    "version": "0.4.6",
+    "mcversion": "1.12.2",
+    "logoFile": "quantum.png",
+    "url": "nigger.black",
+    "updateUrl": "",
+    "authorList": [
+      "ZenovJB, Haz0"
+    ],
+    "screenshots": [],
+    "dependencies": []
+  }
+]
